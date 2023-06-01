@@ -1,7 +1,11 @@
 # calculator-java
 simple calculator written in Java; supports addition, subtraction, multiplication and division
+
+
 LOC - 214
+
 Ciklomatska slozenost - 29
+
 Kongnitivna slozenost - 33
 
 
